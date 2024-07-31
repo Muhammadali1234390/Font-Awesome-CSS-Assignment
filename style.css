@@ -1,0 +1,124 @@
+*{
+    box-sizing: border-box;
+}
+i{
+    font-size: 30px;
+    margin-left: -50px;
+    position: absolute;
+    margin-top: 10px;
+}
+.is{
+    margin-left: 170px;
+}
+input{
+    padding:25px 45px;
+    width: 800px;
+    border-radius: 100px;
+    margin-left: 450px;
+}
+.i:hover{
+    cursor: pointer;
+}
+.i2:hover{
+    cursor: pointer;
+}
+.i3:hover{
+    cursor: pointer;
+}
+.i4:hover{
+    cursor: pointer;
+}
+.i5:hover{
+    cursor: pointer;
+}
+.i6:hover{
+    cursor: pointer;
+}
+.i6 p{
+    margin-left: 110px;
+}
+.i5 p{
+    margin-left: 100px;
+}
+input:focus{
+    outline: 2px solid #0859d3;
+}
+header{
+    position: relative;
+}
+.image {
+    height: 25px;
+    width:25px;
+    margin-left: 285px;
+    margin-top: 23px;
+}
+.fa-solid .fa-icons .fa-fw .fa-2x{
+    font-size: 28px;
+}
+.i2 p{
+    margin-left: 67px;
+}
+.i3 p{
+    margin-left: 75px;
+}
+.svg{
+    width:20px;
+    height:20px;
+    margin-left: 600px;
+}
+.svg2{
+    width: 20px;
+    height: 20px;
+    margin-left: 20px;
+}
+#select{
+    border-radius: 10px;
+    padding: 15px 25px;
+    margin-left: 20px;
+}
+i{
+    color: black;
+}
+.is{
+    display: flex;
+}
+.i p{
+    margin-left: 270px;
+}
+.image:hover{
+    cursor: pointer;
+}
+header{
+    display: flex;
+}
+a{
+    color:black;
+    text-decoration: none;
+    font-size: 11px;
+}
+a:hover{
+    color:rgb(49, 58, 222)
+}
+.start{
+    font-size: 10px;
+    margin-top: 23px;
+    margin-left: 40px;
+}
+.search {
+    height: 25px;
+    width:25px;
+    margin-left: 60px;
+    margin-top: 23px;
+}
+.search:hover{
+    cursor: pointer;
+}
+
+img{
+    height: 25px;
+    width:25px;
+    margin-top: 23px;
+}
+img:hover{
+    cursor: pointer;
+}
